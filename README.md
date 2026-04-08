@@ -40,3 +40,14 @@ AWS | Docker | GitHub Actions | Python | Bash | Terraform | Linux
 
 ## 📈 Goal
 Transition into a Cloud DevOps Engineer role by applying automation, scalability, and cloud-native best practices.
+
+
+## 🌍 Live Deployment
+
+Application is live on AWS EC2:
+
+http://63.34.29.136
+
+## 📸 Live Demo
+
+(Add screenshot here soon)
