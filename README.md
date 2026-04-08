@@ -50,4 +50,4 @@ http://63.34.29.136
 
 ## 📸 Live Demo
 
-(Add screenshot here soon)
+![Live App](screenshots/live-app.png)
